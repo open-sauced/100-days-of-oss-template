@@ -9,10 +9,7 @@ You might want to create a new repository for your journal, or you can fork this
 ### Set a Goal
 Before you start, you might want to set a goal for yourself. What do you want to accomplish in the next 100 days? What do you want to learn? What do you want to build or be a part of? Declaring that in your README will help you stay focused and motivated and will help others understand what you're working on.
 
-### Fork this Repository
-If you want to use this repository as a starting point, you can fork it.
-
-#### Directions for Using this Repository
+#### Getting Started
 1. Fork this repository
 2. Clone your forked repository to your local machine
 3. Create a new branch for each day of the challenge if you want to keep your work separate
@@ -28,3 +25,7 @@ If you want to use this repository as a starting point, you can fork it.
 - If you get stuck, ask for help! You can ask a friend, a mentor, or the community for help. 
 - If you get bored, try something new! There are so many ways to contribute to OSS. You can write code, write documentation, test software, translate content, and more.
 - If you get frustrated, take a break. OSS is supposed to be fun! If you're not having fun, take a break and come back to it later.
+
+#### Additional Resources
+- [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
+- [OpenSauced](https://opensauced.pizza/)
