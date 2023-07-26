@@ -15,7 +15,7 @@ Before you start, you might want to set a goal for yourself. What do you want to
 3. Create a new branch for each day of the challenge if you want to keep your work separate
 4. Commit your work to your branch
 5. Push your changes to your forked repository
-6. Create a pull request to merge your changes into the master branch of your forked repository
+6. Create a pull request to merge your changes into the main branch of your forked repository
 7. Repeat steps 3-6 for each day of the challenge
 
 #### Tips for making the most out of #100DaysOfOSS
