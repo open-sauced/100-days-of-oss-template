@@ -16,6 +16,10 @@ Before you start, you might want to set a goal for yourself. What do you want to
 
 #### Getting Started
 
+There are a couple of ways to use this template. You can create a new repository using this template or fork this repository. We will walk you through them both.
+
+> ⚠️ Before getting started, always ensure you **work on your changes in your forked repository** and _not directly_ in this repository.
+
 ### Creating a New Repository Using This Template
 
 1. Click the green "Use this template" button on the top of this repository.
