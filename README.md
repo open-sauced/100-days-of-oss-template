@@ -16,6 +16,16 @@ Before you start, you might want to set a goal for yourself. What do you want to
 
 #### Getting Started
 
+### Creating a New Repository Using This Template
+
+1. Click the green "Use this template" button on the top of this repository.
+2. Click the "Create new repository" from the dropdown menu.
+3. Fill in the repository name and description (optional). Leave the "Include all branches" checkbox unchecked — you only want the default branch.
+4. Click the green "Create repository" button.
+5. Follow steps 3-9 in the [Forking This Repository](#forking-this-repository) section below to work on your OSS progress.
+
+### Forking This Repository
+
 1. Fork this repository by clicking the fork button on the top.
 2. Clone _your forked repository_ to your local machine.
 
