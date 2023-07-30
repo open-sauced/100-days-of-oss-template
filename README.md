@@ -87,7 +87,26 @@ Before you start, you might want to set a goal for yourself. What do you want to
 
 #### Tips for making the most out of #100DaysOfOSS
 
-- Use the table-of-contents.md file to keep track of your work
+- Use the `table-of-contents.md` file to keep track of your work. To update the Table of Contents:
+
+  - Go to _your forked repository_ on GitHub.
+  - Open your progress track file.
+  - Click on the link icon at the day's title and copy the link.
+  - Paste the link in the target date in the `table-of-contents.md`.
+
+    ```bash
+    [Day 1](link-to-day-1)
+    ```
+
+    For example:
+
+    ```bash
+    [Day 1](https://github.com/username/100-days-of-oss-journal/blob/main/my-100-days-oss-journal.md#day-1)
+
+    ```
+
+  - Follow steps 6-8 in the [Getting Started](#getting-started) section to add, commit, push, and create a pull request to merge your changes into the `main` branch of your forked repository.
+
 - Commit your work every day, even if you don't have time to work on it for long
 - If you don't have time to work on a project, read an article, watch a video, attend an event about an OSS topic that interests you
 - If you get stuck, ask for help! You can ask a friend, a mentor, or the community for help.
