@@ -6,6 +6,8 @@ A journal template to help you keep up with your #100DaysOfOSS work.
 
 We recommend that you use this template to keep track of your work during the challenge. You can use it as a starting point and customize it to your needs.
 
+You will use Markdown to work on your progress. If you are not familiar with working with Markdown, you can read the docs about [Markdown's basic syntax](https://www.markdownguide.org/basic-syntax/).
+
 You might want to create a new repository for your journal, or you can fork this repository and use it as a starting point.
 
 ### Set a Goal
