@@ -8,13 +8,13 @@ We recommend that you use this template to keep track of your work during the ch
 
 You will use Markdown to work on your progress. If you are not familiar with working with Markdown, you can read the docs about [Markdown's basic syntax](https://www.markdownguide.org/basic-syntax/).
 
-You might want to create a new repository for your journal, or you can fork this repository and use it as a starting point.
+You might want to create a new repository for your journal, or you can fork this repository and use it as a starting point. Read more about how to do it in the [Getting Started](#getting-started) section.
 
-### Set a Goal
+## Set a Goal
 
-Before you start, you might want to set a goal for yourself. What do you want to accomplish in the next 100 days? What do you want to learn? What do you want to build or be a part of? Declaring that in your README will help you stay focused and motivated and will help others understand what you're working on.
+Before you start, set a goal for yourself. What do you want to accomplish in the next 100 days? What do you want to learn? What do you want to build or be a part of? Declaring that in your README will help you stay focused and motivated and help others understand what you're working on.
 
-#### Getting Started
+## Getting Started
 
 There are a couple of ways to use this template. You can create a new repository using this template or fork this repository. We will walk you through them both.
 
@@ -35,7 +35,7 @@ There are a couple of ways to use this template. You can create a new repository
 
    - Go to _your forked repository_ on GitHub.
    - Click the "<> Code" button and copy the HTTPS link.
-   - In your terminal on your local machine, open the directory where you want this repo to live. Then run this command:
+   - In your terminal on your local machine, navigate to the directory where you want this repo to live. Then run this command:
 
      ```bash
      git clone <https-link>
@@ -101,7 +101,7 @@ There are a couple of ways to use this template. You can create a new repository
    - Merge your changes into the `main` branch by clicking the green "Merge pull request" and the "Confirm merge" button.
 9. Repeat steps 5-8 for each day of the challenge.
 
-#### Tips for making the most out of #100DaysOfOSS
+## Tips for making the most out of #100DaysOfOSS
 
 - Use the `table-of-contents.md` file to keep track of your work. To update the Table of Contents:
 
@@ -123,13 +123,13 @@ There are a couple of ways to use this template. You can create a new repository
 
   - Follow steps 6-8 in the [Getting Started](#getting-started) section to add, commit, push, and create a pull request to merge your changes into the `main` branch of your forked repository.
 
-- Commit your work every day, even if you don't have time to work on it for long
-- If you don't have time to work on a project, read an article, watch a video, attend an event about an OSS topic that interests you
-- If you get stuck, ask for help! You can ask a friend, a mentor, or the community for help.
-- If you get bored, try something new! There are so many ways to contribute to OSS. You can write code, write documentation, test software, translate content, and more.
+- Commit your work every day, even if you only have time to work on it for a short time.
+- If you don't have time to work on a project, read an article, watch a video, or attend an event about an OSS topic that interests you.
+- If you need help, ask for help! You can ask a friend, a mentor, or the community for help.
+- If you get bored, try something new! There are so many ways to contribute to OSS. You can write code, documentation, test software, translate content, and more.
 - If you get frustrated, take a break. OSS is supposed to be fun! If you're not having fun, take a break and come back to it later.
 
-#### Additional Resources
+## Additional Resources
 
 - [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
 - [OpenSauced](https://opensauced.pizza/)
