@@ -49,11 +49,11 @@ There are a couple of ways to use this template. You can create a new repository
 
 3. Create a new file and name this file anything you want, e.g., `my-oss-journal.md`. This file will be where you update your #100DaysofOSS progress. You can use the template in the `journal.md` file. Copy and paste the template into your progress track file, and customize it to your need.
 4. Update the `table-of-contents.md` file by adding the link to the target day in the progress track file.
-   ```bash
-    [Day X](file-name.md#day-x)
+   ```markdown
+   [Day X](file-name.md#day-x)
    ```
    For example:
-   ```bash
+   ```markdown
    [Day 1](my-oss-journal.md#day-1)
    ```
 5. Create a new branch for each challenge day if you want to keep your work separate.
