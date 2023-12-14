@@ -22,6 +22,7 @@
 - **Description**: Start exploring OSS
 - **Tasks completed**: 
   - create this journal to track my OSS journey
+  - Completed Intro to Open Source with OpenSauced
 - **Challenges faced**: 
 - **Resources used**: 
   - Get started on OSS (https://docs.opensauced.pizza/community/100-days-of-oss/)
