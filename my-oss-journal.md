@@ -27,3 +27,12 @@
 - **Resources used**: 
   - Get started on OSS (https://docs.opensauced.pizza/community/100-days-of-oss/)
 - **OpenSauced Highlight**: Intro to Open Sauced (https://intro.opensauced.pizza/#/)
+
+## Day 2
+
+- **Project**: A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT (LFD102)
+- **Description**: Gain more OSS knowledge from this Linux Foundation course
+- **Tasks completed**: began taking this course
+- **Challenges faced**: 
+- **Resources used**: Course link (https://trainingportal.linuxfoundation.org/courses/a-beginners-guide-to-open-source-software-development-lfc102)
+- **OpenSauced Highlight**: 
