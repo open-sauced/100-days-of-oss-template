@@ -36,3 +36,12 @@
 - **Challenges faced**: 
 - **Resources used**: Course link (https://trainingportal.linuxfoundation.org/courses/a-beginners-guide-to-open-source-software-development-lfc102)
 - **OpenSauced Highlight**: 
+
+## Day 3
+
+- **Project**: OSS knowledge
+- **Description**: continue LFD102
+- **Tasks completed**: Completed chapter 2 of LFD102
+- **Challenges faced**: 
+- **Resources used**: LFD102
+- **OpenSauced Highlight**: I am fascinated by course content and organization, which is easy and intriging to follow.

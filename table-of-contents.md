@@ -7,7 +7,7 @@
   - [Introduction](#introduction)
   - [Day 1](my-oss-journal.md#day-1)
   - [Day 2](my-oss-journal.md#day-2)
-  - [Day 3](#day-3)
+  - [Day 3](my-oss-journal.md#day-3)
   - [Day 4](#day-4)
   - [Day 5](#day-5)
   - [Day 6](#day-6)
